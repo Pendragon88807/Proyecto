@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>webLayout</title>
+        <link rel="stylesheet" href="./Styles.css">
+    </head>
+    <body>
+        <header id="header">
+            <h1>La Mitologia Griega</h1>
+        </header>
+        <ul class="navBar">
+            <li><a href="./webLayout.html">Pagina 1</a></li>
+            <li><a href="../../templates/htmlFiles/image.html">Pagina 2</a></li>
+            <li><a href="../../templates/htmlFiles/table.html">Pagina 3</a></li>
+        </ul>
+        <div class="flex-container">
+            <div>
+                <h2>Capitulo 1 </h2>
+                <p>
+                    La mitología griega es un conjunto de relatos y creencias de la antigua Grecia que explicaban el origen del mundo, de los dioses, de los seres humanos y de los fenómenos naturales. Estas historias se transmitían de generación en generación de forma oral y, con el tiempo, fueron recopiladas por poetas como Homero y Hesíodo. Para los griegos, la mitología no solo servía para explicar lo desconocido, sino también para transmitir valores, normas sociales y lecciones morales.
+                </p>
+            </div>
+            <div>
+                <h2>Capitulo 2</h2>
+                <p>
+                   Los dioses griegos eran antropomorfos, es decir, tenían forma humana y emociones como el amor, los celos o la ira. Habitaban en el monte Olimpo y cada uno tenía funciones específicas: Zeus era el dios supremo y del rayo, Hera la diosa del matrimonio, Atenea representaba la sabiduría, y Poseidón gobernaba los mares. Además de los dioses, la mitología incluía héroes como Heracles, Perseo y Aquiles, quienes destacaban por su fuerza, inteligencia o valentía, aunque también enfrentaban grandes sufrimientos.
+                </p>
+            </div>
+            <div>
+                <h2> Capitulo 3</h2>
+                <p>
+                    La mitología griega tuvo una enorme influencia en la cultura occidental, especialmente en la literatura, el arte, la filosofía y el lenguaje. Muchas obras modernas se inspiran en estos mitos, y numerosas expresiones actuales provienen de ellos, como el “talón de Aquiles” o la “caja de Pandora”. Gracias a su riqueza simbólica y narrativa, la mitología griega sigue siendo estudiada y apreciada como una fuente fundamental para comprender la historia y el pensamiento de la humanidad.
+                </p>
+            </div>
+        </div>
+        <footer>
+            <p>Footer</p>
+        </footer>
+        <link rel="stylesheet" href="./Js/proyecto.js">
+    </body>
+</html>
